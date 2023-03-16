@@ -87,8 +87,7 @@ console.log(joshHadALittleLambOopsCow.indexOf("cow"))
 // Oh no! The alien doppelgangers are here. Let's use our laserbeam lastIndexOf() to shoot down the last alien named Vanessa in the String Universe.
 
 const vanessa = "I am the Alpha Vanessa. I am the Omega Vanessa. We do not come in peace."
-.lastIndexOf()
-console.log(world)
+console.log(text.lastIndexOf(Vanessa))
 // Can we use length for strings? I don't know, you tell me.
 const noWeCantTeo = "but did you try it out though?"
 
